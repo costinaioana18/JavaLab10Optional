@@ -13,4 +13,4 @@ I have completed the following optional tasks:
 
 *to see how the html looks like, check HTMLGameRepresentation.jpg*
 
-* to see how the board looks like and how the winner is announced, and other game functionalities ( like the way a player cannot submit a move when selecting a place is already occupied), check output10.jpg *
+_to see how the board looks like and how the winner is announced, and other game functionalities ( like the way a player cannot submit a move when selecting a place is already occupied), check output10.jpg_

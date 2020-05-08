@@ -11,6 +11,6 @@ I have completed the following optional tasks:
 - once a game is finished, the app creates an html file containing the game's representation. I have not uploaded it to a web server tho.
 
 
-*to see how the html looks like, check HTMLGameRepresentation.jpg*
+**to see how the html looks like, check HTMLGameRepresentation.jpg**
 
-_to see how the board looks like and how the winner is announced, and other game functionalities ( like the way a player cannot submit a move when selecting a place is already occupied), check output10.jpg_
+**to see how the board looks like and how the winner is announced, and other game functionalities ( like the way a player cannot submit a move when selecting a place is already occupied), check output10.jpg**
